@@ -2,8 +2,8 @@
 <h4 align="center">A passionate software engineer eager to learn and innovate!</h4>
 
 <p align="center">
-  <a href="https://linkedin.com/in/shariful-alam85" target="blank"><img align="center" src="https://camo.githubusercontent.com/8c0692475a5bfc1d9e7361074bdb648e567cae7b5b40ffd32adae31180b0d7b6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="shariful-alam85" height="88" width="88" /></a>
-  <a href="mailto:shariful.alam85@gmail.com" target="blank"><img align="center" src="https://camo.githubusercontent.com/e5cfad4cbb1e023463333923b069b81749d94e8ff5722f851c7bb01d65bb0e95/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" alt="shariful.alam.hemal" height="85" width="85" /></a>
+  <a href="https://linkedin.com/in/shariful-alam85" target="_blank"><img align="center" src="https://camo.githubusercontent.com/8c0692475a5bfc1d9e7361074bdb648e567cae7b5b40ffd32adae31180b0d7b6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="shariful-alam85" height="88" width="88" /></a>
+  <a href="mailto:shariful.alam85@gmail.com" target="_blank"><img align="center" src="https://camo.githubusercontent.com/e5cfad4cbb1e023463333923b069b81749d94e8ff5722f851c7bb01d65bb0e95/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" alt="shariful.alam.hemal" height="85" width="85" /></a>
 </p>
 
 ## 🧑‍💻 About Me:
