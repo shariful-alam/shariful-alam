@@ -29,6 +29,7 @@ I'm a passionate software engineer with experience in Frontend and Backend devel
 
 ## 📊 GitHub Stats:
 <p align="center">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shariful-alam&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Most Used Language" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shariful-alam&theme=tokyonight&show_icons=true&hide=contribs,issues&show=prs_merged,prs_merged_percentage&hide_border=true" alt="Shariful's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shariful-alam&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Language" />
 </p>
