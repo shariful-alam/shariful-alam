@@ -27,9 +27,3 @@ I'm a passionate software engineer with experience in Frontend and Backend devel
 ### DevOps & Tools
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shariful-alam&theme=tokyonight&show_icons=true&hide=contribs,issues&show=prs_merged,prs_merged_percentage&hide_border=true" alt="Shariful's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shariful-alam&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Language" />
-</p>
